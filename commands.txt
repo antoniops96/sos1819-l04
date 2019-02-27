@@ -1,0 +1,15 @@
+    1  ls
+    2  rm *
+    3  ls
+    4  mkdir l04
+    5  cd lo04
+    6  cd l04
+    7  ls
+    8  npm init
+    9  touch index.js
+   10  node index
+   11  npm install cool-ascii-faces
+   12  npm install cool-ascii-faces --save
+   13  npm start
+   14  history
+   15  history > commands.txt
